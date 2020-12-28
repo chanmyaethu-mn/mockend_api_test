@@ -13,58 +13,58 @@
   },
   "CurrencyPairCategory": [
     {
-	"CurrencyPairCategoryID": 1,
-	"CurrencyPairCategoryName": "法定通貨",
-	"CurrencyPair": [
-		{
-		"CurrencyPairID": 1,
-		"CurrencyPairName": "USDJPY",
-		"CurrencyPerLot": 10000,
-		"OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
-		"LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
-		},
-		{
-		"CurrencyPairID": 2,
-		"CurrencyPairName": "EURUSD",
-		"CurrencyPerLot": 10000,
-		"OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
-		"LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
-		},
-		{
-		"CurrencyPairID": 3,
-		"CurrencyPairName": "GBPJPY",
-		"CurrencyPerLot": 10000,
-		"OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
-		"LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
-		}																													
-    	]																																	
-     },
-	  {																																		
-			"CurrencyPairCategoryID": 2,
-			"CurrencyPairCategoryName": "仮想通貨",
-			"CurrencyPair": [
-				{
-					"CurrencyPairID": 4,
-					"CurrencyPairName": "BTCJPY",
-					"CurrencyPerLot": 1,
-					"OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
-					"LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
-				},
-				{
-					"CurrencyPairID": 5,
-					"CurrencyPairName": "ETHJPY",
-					"CurrencyPerLot": 1,
-					"OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
-					"LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
-				},
-				{
-					"CurrencyPairID": 6,
-					"CurrencyPairName": "XRPJPY",
-					"CurrencyPerLot": 1,
-					"OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
-					"LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
-				}													
-			]										
-		}
+    "CurrencyPairCategoryID": 1,
+    "CurrencyPairCategoryName": "法定通貨",
+    "CurrencyPair": [
+      {
+        "CurrencyPairID": 1,
+        "CurrencyPairName": "USDJPY",
+        "CurrencyPerLot": 10000,
+        "OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
+        "LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
+      },
+      {
+        "CurrencyPairID": 2,
+        "CurrencyPairName": "EURUSD",
+        "CurrencyPerLot": 10000,
+        "OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
+        "LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
+      },
+      {
+        "CurrencyPairID": 3,
+        "CurrencyPairName": "GBPJPY",
+        "CurrencyPerLot": 10000,
+        "OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
+        "LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
+      }
+    ]
+  },
+  {
+    "CurrencyPairCategoryID": 2,
+    "CurrencyPairCategoryName": "仮想通貨",
+    "CurrencyPair": [
+      {
+        "CurrencyPairID": 4,
+        "CurrencyPairName": "BTCJPY",
+        "CurrencyPerLot": 1,
+        "OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
+        "LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
+      },
+      {
+        "CurrencyPairID": 5,
+        "CurrencyPairName": "ETHJPY",
+        "CurrencyPerLot": 1,
+        "OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
+        "LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
+      },
+      {
+        "CurrencyPairID": 6,
+        "CurrencyPairName": "XRPJPY",
+        "CurrencyPerLot": 1,
+        "OldestDataDate": "Fri Oct 09 01:23:45 UTC 2020",
+        "LatestDataDate": "Fri Oct 09 23:23:45 UTC 2020"
+      }
+    ]
+  }
   ]
 }
